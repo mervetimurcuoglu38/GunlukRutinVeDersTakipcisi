@@ -1,3 +1,4 @@
+<img width="1917" height="985" alt="Ekran görüntüsü 2026-09-17 234841" src="https://github.com/user-attachments/assets/f996f1ed-1b2b-417a-94cb-72ccd1b8fc45" />
 # 🎯 Günlük Rutin ve Ders Takipçisi (Daily Routine & Study Tracker)
 
 Bu proje; kişisel çalışma disiplinini artırmak, ders çalışma sürelerini takip etmek ve günlük rutinleri yönetmek amacıyla geliştirilmiş **C# Windows Forms** tabanlı bir masaüstü uygulamasıdır. Katmanlı mimari yapısı ve **Telegram Bot API** entegrasyonu sayesinde kullanıcıya anlık bildirim ve raporlama imkanı sunar.
