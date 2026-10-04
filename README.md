@@ -43,6 +43,3 @@ Proje, kodun okunabilirliğini ve sürdürülebilirliğini artırmak adına katm
  4.Projeyi derleyin ve çalıştırın (F5).
    
    
-1. Projeyi bilgisayarınıza klonlayın:
-   ```bash
-   git clone [https://github.com/mervetimurcuoglu38/GunlukRutinVeDersTakipcisi.git](https://github.com/mervetimurcuoglu38/GunlukRutinVeDersTakipcisi.git)
